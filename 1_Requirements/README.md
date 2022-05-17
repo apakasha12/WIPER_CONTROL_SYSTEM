@@ -1,0 +1,28 @@
+## Hardware Specifications
+ •	ATmega Family Microcontroller 
+ •	Transformer
+ •	Regulator
+ •	Rain Sensor
+ •	Servo Motor
+ 
+
+## Software Specifications
+
+•	Arduino Compiler
+ 
+•	MC Programming Language: C
+
+## HIGH LEVEL REQUIREMENTS:
+I'D	DESCRIPTION	STATUS
+ HR_01	Car in ACC mode 	Implemented 
+ HR_02	Car in ignition mode 	Implemented 
+  HR_03	Turning on the wiper 	 Implemented
+  HR_04	 Turning off the wiper	 Implemented
+  
+## LOW LEVEL REQUIREMENTS:
+I'D	DESCRIPTION	STATUS
+ LR_01	ON	Implemented
+ LR_02	Press wiper switch 	 Implemented
+ LR_03	Microcontroller supply	Implemented
+ LR_04	Activating wiper blades	Implemented
+ LR_05	OFF	Implemented
